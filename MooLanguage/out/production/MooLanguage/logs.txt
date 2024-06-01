@@ -1,0 +1,41 @@
+Variables successfully declared 
+bessie noun
+data successfully ingested 
+Variables successfully declared 
+bessie noun
+taught transitive-verb
+flew intransitive-verb
+elsie noun
+farmer noun
+john noun
+and conjunction
+and conjunction
+nhoj noun
+mooed intransitive-verb
+data successfully ingested 
+Variables successfully declared 
+but conjunction
+bessie noun
+taught transitive-verb
+flew intransitive-verb
+elsie noun
+farmer noun
+john noun
+and conjunction
+and conjunction
+nhoj noun
+mooed intransitive-verb
+bob noun
+impressed transitive-verb
+cow noun
+impressed transitive-verb
+leaped intransitive-verb
+elsie noun
+bella noun
+buttercup noun
+pushed transitive-verb
+mooed intransitive-verb
+envy noun
+john noun
+nhoj noun
+data successfully ingested 
